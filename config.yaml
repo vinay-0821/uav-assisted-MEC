@@ -1,0 +1,20 @@
+simulation:
+  total_time: 10
+  num_slots: 50
+  H1: 10
+  H2: 8
+  Vmax: 10
+  alpha0: 1e-3
+  L_total: 400000000
+  C: 1000
+  kappa_m: 1e-26
+  kappa_u1: 1e-26
+  epsilon1: 0.06614
+  epsilon2: 15.976
+  theta_m: 1.0
+  theta_u: 0.2
+  O_m: 0.8
+  x_start: 0
+  y_start: 0
+  x_end: 10
+  y_end: 0
