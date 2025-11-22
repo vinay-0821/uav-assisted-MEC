@@ -1,0 +1,9 @@
+numpy
+matplotlib
+cvxpy
+pyyaml
+scipy
+pandas
+tqdm
+ecos
+scs
